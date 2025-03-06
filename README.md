@@ -10,14 +10,14 @@ Jocul selectează întrebări dintr-un fișier text (`questions.txt`).
 
 Jucătorul vede întrebarea afișată în consola și trebuie să aleagă răspunsul corect.
 
-Pentru fiecare răspuns corect, primește puncte.
+Pentru fiecare răspuns corect, primește 10 puncte.
 
 La final, scorul său este afișat în consolă și salvat în `scoruri.txt`.
 
 ## Cum să joci
 
 1. Rulează fișierul principal `JocTrivia.java`.
-2. Citește întrebările afișate în consolă și alege răspunsul dorit.
+2. Citește întrebările afișate în consolă și scrie răspunsul pe care îl consideri corect.
 3. Continuă până când toate întrebările sunt completate.
 4. La final, vei vedea scorul tău în consolă.
 
